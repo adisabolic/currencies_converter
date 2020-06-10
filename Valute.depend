@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1581512474 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 2\valute\disjunktniskupstablo.cpp
+	"DisjunktniSkupStablo.h"
+	<iostream>
+
+1581514838 d:\stvari\fax\analiza i sinteza algoritama\projekat 2\valute\disjunktniskupstablo.h
+	<string>
+	<unordered_map>
+	<vector>
+
+1581512759 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 2\valute\main.cpp
+	<iostream>
+	"Valute.h"
+
+1581512368 d:\stvari\fax\analiza i sinteza algoritama\projekat 2\valute\valute.h
+	<vector>
+	<string>
+	"DisjunktniSkupStablo.h"
+
+1581512351 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 2\valute\valute.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"Valute.h"
+
